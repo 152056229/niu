@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\shiyan3\shiyan3\bin\Debug\shiyan3.exe
+c:\users\administrator\documents\visual studio 2010\Projects\shiyan3\shiyan3\bin\Debug\shiyan3.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\shiyan3\shiyan3\obj\x86\Debug\shiyan3.exe
+c:\users\administrator\documents\visual studio 2010\Projects\shiyan3\shiyan3\obj\x86\Debug\shiyan3.pdb
